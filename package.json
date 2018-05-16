@@ -1,5 +1,5 @@
 {
-  "name": "db-helper",
+  "name": "db-manager",
   "version": "0.0.1",
   "description": "A Node.js package to manage db initialization and connections",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tengyue4/db-helper.git"
+    "url": "git+https://github.com/tengyue4/db-manager.git"
   },
   "keywords": [
     "awesome"
@@ -16,7 +16,7 @@
   "author": "Yue Teng <tengyue4@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tengyue4/db-helper/issues"
+    "url": "https://github.com/tengyue4/db-manager/issues"
   },
-  "homepage": "https://github.com/tengyue4/db-helper#readme"
+  "homepage": "https://github.com/tengyue4/db-manager#readme"
 }
