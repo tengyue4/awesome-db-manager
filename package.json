@@ -1,0 +1,22 @@
+{
+  "name": "db-helper",
+  "version": "0.0.1",
+  "description": "A Node.js package to manage db initialization and connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tengyue4/db-helper.git"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "Yue Teng <tengyue4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tengyue4/db-helper/issues"
+  },
+  "homepage": "https://github.com/tengyue4/db-helper#readme"
+}
