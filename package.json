@@ -1,6 +1,6 @@
 {
   "name": "awesome-db-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Node.js package to manage db initialization and connections",
   "main": "index.js",
   "scripts": {
