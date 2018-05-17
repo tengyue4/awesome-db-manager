@@ -1,5 +1,7 @@
+'use strict'
 
+const DBConnector   =   require('./connections/DBConnector');
 
-exports.hello = function(){
-    console.log('hello world from Victor');
+module.exports = {
+    DBConnector
 };

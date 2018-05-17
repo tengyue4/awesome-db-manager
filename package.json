@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/tengyue4/awesome-db-manager/issues"
   },
-  "homepage": "https://github.com/tengyue4/awesome-db-manager#readme"
+  "homepage": "https://github.com/tengyue4/awesome-db-manager#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "pg": "^7.4.3"
+  }
 }
